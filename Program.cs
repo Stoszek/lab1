@@ -1,4 +1,0 @@
-﻿namespace Wyrzykowski264228
-{
-    
-}
